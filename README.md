@@ -1,7 +1,7 @@
-# Vanta
+# Vanta Vivid
 
-**Vanta** is a minimal black theme for VS Code.
+**Vanta Vivid** is a minimal black theme for VS Code with vivid colors for highlighting.
 
-[Install Extension](https://marketplace.visualstudio.com/items?itemName=OrelLazri.vanta)
+[Install Extension](https://marketplace.visualstudio.com/items?itemName=JonasKennedy.vanta-vivid)
 
-![Vanta](assets/screenshot.png)
+![Vanta Vivid](assets/screenshot.png)
